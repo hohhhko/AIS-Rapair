@@ -187,3 +187,50 @@ F:\МДК 06.02(курсач)\Приложения\Основы алгарифт
 F:\МДК 06.02(курсач)\Приложения\Основы алгарифтма(прога)\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.exe
 F:\МДК 06.02(курсач)\Приложения\Основы алгарифтма(прога)\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.pdb
 E:\МДК 06.02(курсач)\Приложения\Основы алгарифтма(прога)\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.csproj.SuggestedBindingRedirects.cache
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\x86\sqlite3.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\x64\sqlite3.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\АИС.Ремонтная мастерская техники.exe.config
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\АИС.Ремонтная мастерская техники.exe
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\АИС.Ремонтная мастерская техники.pdb
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\EntityFramework.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\EntityFramework.SqlServer.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\SQLitePCLRaw.core.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Buffers.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Data.SQLite.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Data.SQLite.EF6.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Data.SQLite.Linq.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Memory.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Numerics.Vectors.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\EntityFramework.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\EntityFramework.SqlServer.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Buffers.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Data.SQLite.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Memory.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Numerics.Vectors.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.csproj.AssemblyReference.cache
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormRegistrationWorker.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormAuthorizationWorker.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormStart.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormOrder.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormQuestion.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormRegistration.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormPayment.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormDeleteClients.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormAuthorization.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormMenuAdmin.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormTableOrders.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormTableQuestions.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormTableTreashcan.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormBankDetals.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormMainClient.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.FormSetings.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная_мастерская_техники.Properties.Resources.resources
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.csproj.GenerateResource.cache
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.csproj.CoreCompileInputs.cache
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.csproj.CopyComplete
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.exe
+E:\нужные програмки\GitHubDesktop\Repositri\AIS-Rapair\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\obj\Debug\АИС.Ремонтная мастерская техники.pdb

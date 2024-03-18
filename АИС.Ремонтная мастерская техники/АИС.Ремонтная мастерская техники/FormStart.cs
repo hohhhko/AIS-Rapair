@@ -21,7 +21,7 @@ namespace АИС.Ремонтная_мастерская_техники
         // Процесс обновления приложения
         private void FormStart_Load(object sender, EventArgs e)
         {
-            if (Client.DownloadString("").Contains("V.1"))
+            if (Client.DownloadString("https://github.com/hohhhko/AIS-Rapair.git").Contains("V.1"))
             {
                 MessageBox.Show("У вас актальная версия");
             }
@@ -30,7 +30,7 @@ namespace АИС.Ремонтная_мастерская_техники
                 DialogResult dr = MessageBox.Show("Вышла новая версия пожалуста обновите","Обновление",MessageBoxButtons.OKCancel,MessageBoxIcon.Exclamation);
                 if (dr == DialogResult.OK)
                 {
-                    Client.DownloadFile("", "");
+                    Client.DownloadFile("https://github.com/hohhhko/AIS-Rapair.git", "V.2");
                 }
                 else
                 {
