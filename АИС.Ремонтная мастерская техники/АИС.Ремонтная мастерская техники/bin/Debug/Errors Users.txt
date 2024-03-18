@@ -1,0 +1,41 @@
+Microsoft Windows NT 6.2.9200.0
+
+Материнка:
+Gigabyte Technology Co., Ltd.
+
+Процессор:
+Intel(R) Pentium(R) CPU G4560 @ 3.50GHz
+Процессор(частота в герцах):
+3500
+
+Видеокарта:
+Intel(R) HD Graphics 610
+Память Видоекарты:
+1 ГБ
+
+Оперативная память(Чатота в герцах):
+1600
+Оперативная память(Обьем):
+4 ГБ
+
+Жесткий диск:
+UFD 3.0 Silicon-Power16G USB Device
+Hitachi HDS721050CLA360
+Объем памяти наситлей:
+14 ГБ
+465 ГБ
+
+
+Reader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   в System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в АИС.Ремонтная_мастерская_техники.FormAuthorization.<ButtonNext_Click>d__3.MoveNext() в E:\МДК 06.02(курсач)\Приложения\Основы алгарифтма(прога)\АИС.Ремонтная мастерская техники\АИС.Ремонтная мастерская техники\FormAuthorization.cs:строка 43
+
+SQL logic error
+unrecognized token: "@"
+
+Ошибка Пользователя:, Логин: 
