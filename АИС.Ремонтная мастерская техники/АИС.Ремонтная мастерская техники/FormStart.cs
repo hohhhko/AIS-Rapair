@@ -21,7 +21,7 @@ namespace АИС.Ремонтная_мастерская_техники
         // Процесс обновления приложения
         private void FormStart_Load(object sender, EventArgs e)
         {
-            if (Client.DownloadString("").Contains(""))
+            if (Client.DownloadString("").Contains("V.1"))
             {
                 MessageBox.Show("У вас актальная версия");
             }
